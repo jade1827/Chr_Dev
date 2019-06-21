@@ -1,0 +1,1 @@
+cmd_/home/linux/GitHub/Chr_Dev/test1/reg_dev.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-126-generic-pae/scripts/module-common.lds --build-id  -o /home/linux/GitHub/Chr_Dev/test1/reg_dev.ko /home/linux/GitHub/Chr_Dev/test1/reg_dev.o /home/linux/GitHub/Chr_Dev/test1/reg_dev.mod.o
